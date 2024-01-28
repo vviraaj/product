@@ -9,7 +9,9 @@ export default function HomePage() {
     router.replace("/products");
   }, []);
 
-  return <div>
-    you&apos;re free
-  </div>;
+  return (
+    <div>
+      {/* You can add content here if needed, which will be visible momentarily before redirection */}
+    </div>
+  );
 }
