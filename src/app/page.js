@@ -11,7 +11,7 @@ export default function HomePage() {
 
   return (
     <div>
-      {/* You can add content here if needed, which will be visible momentarily before redirection */}
+      <h1>hiii</h1>
     </div>
   );
 }
