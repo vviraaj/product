@@ -9,5 +9,7 @@ export default function HomePage() {
     router.replace("/products");
   }, []);
 
-  return <div></div>;
+  return <div>
+    you&apos;re free
+  </div>;
 }
